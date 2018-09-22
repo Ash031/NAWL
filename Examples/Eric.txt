@@ -1,0 +1,18 @@
+Eric is the 5th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Get Ready for the Alien Invasion||20 Minutes||62/22||1X Chemical-X
+Sleep||3 Hour||125/37||1X Sunflower Seed
+Patrol the Neighborhood||20 Minutes||63/22||1X Photo Roll
+Inform Enemy Presence||22 Minutes 30 Seconds||41/16||1X Walkie Talkie
+Draw on the Sidewalk||1 Hour 30 Minutes||134/39||1X Colored Crayon
+Leaf Through the Lastest Issues||5 Hours||163/46||1X Masked Mutant Book
+Get Mr. Muffin Out of a Tree||20 Minutes||39/16||1X Component Kit
+Assemble an Annihilator 3000||5 Hour||253/64||1X Compact Disk
+_END
+
+h2_Unlocking
+To unlock Eric you need to be level 13 and buy Eric's House for 11000 Coins, it drops 74 Coins and 25 XP every 3 hours

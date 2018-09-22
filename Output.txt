@@ -1,27 +1,35 @@
-=Header 1=
-==Header 2==
-===Header 3===
-====Header 4====
-=====Header 5=====
-======Header 6======
+Selma is the 12th unlockable hero in the game.
+
+==Tasks==
 
 {| border="0" cellspacing="1" cellpadding="1" style="width:500px;" class="article-table"
 |-
 ! scope="col"|Name
 ! scope="col"|Time
-! scope="col"|Output
+! scope="col"|Coins/XP
+! scope="col"|Item
 |-
-|Name1
-|10 Minutes
-|10 Dollars
-|-
-|Name2
+|Take a nap in the Motorhome
 |20 Minutes
-|15 Dollars
+|45/17
+|1X Cookies
+|-
+|Record a Compact VHS
+|1 Hour 15 Minutes
+|132/39
+|1X Compact Disk
+|-
+|Ride a Skateboard
+|20 Minutes
+|68/24
+|1X Sports Drink
+|-
+|Use the VR Googles
+|1 Hour 15 Minutes
+|132/39
+|1X Component Kit
 |}
 
+==Unlocking==
 
-*Hello
-*I am not Ordered!
-
-This is normal Text sadly
+To unlock Selma you need to buy her trailer that is unlocked at level ? for ?, it drops ? Coins and ? XP every ? hours.

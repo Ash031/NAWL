@@ -1,0 +1,14 @@
+Greg is the 8th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Tidy Up||1 Hour 15 Minutes||128/38||1X Perfume
+Go Jogging||45 Minutes||99/31||1X Sports Drink
+Receive a Gift From the Fans||45 Minutes||66/23||1X Bouquet
+Make a List of Material||45 Minutes||66/23||1X Notebook
+_END
+
+h2_Unlocking
+To unlock Greg you need to be level 22 and buy Greg's house for 30000 Coins, it drops 78 Coins and 26 XP every 3 Hours

@@ -1,0 +1,16 @@
+Brooke is the 4th hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Shoot Birds in the Woods||15 Minutes||53/20||1X Photo Roll
+Reveal Photos in the Darkroom||1 Hour||72/25||1X Chemical-Y
+Deliver the School Newspaper||22 Minutes 30 Seconds||66/23||1X Component Kit
+Sleep||8 Hours||205/54||1X Sports Drink
+Buy a Sewing Box||45 Minutes||66/23||1X Sewing Box
+_END
+
+h2_Unlocking
+
+To unlock Brooke you need to be level 12 and buy Brooke's House for 8000 Coins, it produces 73 Coins and 25 XP every 3 Hours

@@ -1,0 +1,31 @@
+Marty is the 3rd Heroe unlocked in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Stole the Student Record||5 Minutes||20/9||1X Investigation File
+Rest (Beating Arcade Highscores)||3 Hours||118/36||1X Annihilator 3000
+Show Off with the BMX||10 Minutes||42/16||1X Tin Can Telephone
+Work Half Shift For The Grocery||15 Minutes||51/19||1X Grocery Bag
+Do the Toilet Paper Prank||15 Minutes||34/14||1X Pencil Case
+Mark the Bark of a Tree||45 Minutes||58/21||1X Sunflower Seeds
+Play "Shoul Apocalypse 2"||2 Hours||98/31||1X Handheld Console
+Eat an Ice Cream Tower||1 Hour 30 Minutes||139/40||1X Cookies
+_END
+
+h3_Events
+
+h4_Invasion of the Body Squeezers
+
+Table:_
+Name||Time||Pearls/XP||Item
+Looking for Garbage||30 Minutes||8/19||1X Cola Drink
+Triggering the Alarm||30 Minutes||8/22||1X Coffee Drink
+Fooling Around||30 Minutes||8/19||1X Baking Powder
+Imagining Battles||1 Hour 30 Minutes||23/28||1X CD
+_END
+
+h2_Unlocking
+
+To unclock Marty you need to reach level 7 and purchase his house for 3500 Coins, the house itself drops 69 Coins and 24 XP every 3 Hours

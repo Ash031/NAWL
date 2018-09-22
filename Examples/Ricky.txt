@@ -1,0 +1,15 @@
+Ricky is the 9th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Eat a Special Cookie||1 Hour 15 Minutes||129/38||1X Cookies
+Get Ready||1 Hour 15 Minutes||86/28||1X Perfume
+Eat some Seeds||45 Minutes||66/23||1X Sunflower Seeds
+Unleash the Romantic Side||2 Hours 45 Minutes||191/51||1X Bouquet
+Take a Note for the Next Report||45 Minutes||100/32||1X Notebook
+_END
+
+h2_Unlocking
+To unlock Ricky you need to be level 23 and build Ricky's House for 24000 Coins, it drops 78 Coins and 26 XP every 3 hours

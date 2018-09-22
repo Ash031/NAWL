@@ -1,0 +1,14 @@
+Emily is the 11th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Do a Handstand||1 Hour 15 Minutes||131/39||1X Sunflower Seeds
+Kill the Time on a Hay Bale||45 Minutes||62/22||1X Notebook
+Rest on a Straw Wagon||1 Hour 30 Minutes||113/35||1X Cookies
+Jump Rope||1 Hour 7 Minutes 30 Seconds||124/37||1X Sports Drinks
+_END
+
+h2_Unlocking
+To unlock Emily you need to be level ? and Buy Emily's House for ? Coins, it drops 79 Coins and 27 XP every 3 hours.

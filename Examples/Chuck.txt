@@ -1,0 +1,15 @@
+Chuck's the 6th unlockable hero in the game
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Shoot Marbles at the Ring||1 Hour 30 Minutes||83/27||1X Marbles
+Play "Attack of the Robots"||30 Minutes||48/18||1X Handheld Console
+Terrify Town as Chuck-Bot||45 Minutes||96/31||1X Sunflower Seeds
+Sleep||8 Hours||213/56||1X Sports Drink
+Walk with the Annihilator 4000||1 Hour 30 Minutes||139/40||1X Walkie Talkie
+_END
+
+h2_Unlocking
+To unlock Chuck you need to be level 16 and buy Chuck's House for 15500 Coins, it drops 75 Coins and 26 XP every 3 hours

@@ -1,0 +1,19 @@
+Shaeron is the first Premium Hero you unlock.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Write Ideas for a short Story||5 Minutes||71/15||1X Magnifying Glass
+Take a Longboard Ride||5 Minutes||71/15||1X Investigation Files
+Listen to Musin Lying on the Bed||5 Minutes||71/15||1X Makeup Kit
+Sleep||4 Hours||256/64||1X Cardboard Periscope
+Take Photos||50 Minutes||120/36||1X Photo Roll
+Pencak Silat Training||50 Minutes||120/36||1X Chemical-Y
+Hockey Training||1 Hour||132/39||1X Walkie Talkie
+Read a Book||40 Minutes||108/33||1X Blob
+_END
+
+h2_Unlocking
+
+To unlock Shaeron you need to be level 9 and use 40 Bucks to buy her house, the house produces 95 Coins and 30 XP every 3 hours

@@ -1,0 +1,16 @@
+Jordan is the 10th unlockable hero in the game
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Do Aerobic Exercises||45 Minutes||61/22||1X Bouquet
+Buy a Book about Law||8 Hours||219/57||1X Classic Novel
+Prepare the next Exam||45 Minutes||67/23||1X Notebook
+Work in the Science Project||30 Minutes||55/20||1X Chemical-Y
+Train for the Football Match||1 Hour 15 Minuetes||130/38||1X Sports Drink
+_END
+
+h2_Unlocking
+
+To unlock Jordan you need to be level 25 and buy Jordan's house for 36000 Coins, it drops 79 Coins and 26 XP every 3 hours.

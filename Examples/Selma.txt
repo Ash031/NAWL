@@ -1,0 +1,15 @@
+Selma is the 12th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Take a nap in the Motorhome||20 Minutes||45/17||1X Cookies
+Record a Compact VHS||1 Hour 15 Minutes||132/39||1X Compact Disk
+Ride a Skateboard||20 Minutes||68/24||1X Sports Drink
+Use the VR Googles||1 Hour 15 Minutes||132/39||1X Component Kit
+_END
+
+h2_Unlocking
+
+To unlock Selma you need to buy her trailer that is unlocked at level ? for ?, it drops ? Coins and ? XP every ? hours.

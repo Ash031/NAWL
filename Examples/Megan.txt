@@ -1,0 +1,15 @@
+Megan is the 7th unlockable hero in the game.
+
+h2_Tasks
+
+Table:_
+Name||Time||Coins/XP||Item
+Do the Shift at the kiosk||45 Minutes||66/23||1X Bouquet
+Rehearse Choreography||1 Hour 15 MInutes||127/38||1X Sewing Box
+Compose a New Song||45 Minutes||60/22||1X Notebook
+Ride on Inline Skates||1 Hour 15 Minutes||128/38||1X Perfume
+Drink Greg's Refreshment||1 Hour 15 Minutes||130/38||1X Sports Drink
+_END
+
+h2_Unlocking
+To unlock Megan you need to be level 21 and build Megan's House for 24000 Coins, it drops 83 Coins and 28 XP every 3 and a half hours.
